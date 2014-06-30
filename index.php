@@ -10,9 +10,20 @@ h1
 	text-align: center;
 }
 
+h2
+{
+	font-style: italic;
+}
+
 body
 {
+	font-family: Verdana;
+	color: #2e8b57;
+}
 
+.main
+{
+	width:50%;
 }
 </style>
 </head>
