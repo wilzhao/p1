@@ -23,13 +23,16 @@ body
 
 .main
 {
-	width:50%;
+	
 }
 </style>
 </head>
 
 <body>
 	<div class = "main">
+		<h1>
+			Wilbur Zhao
+		</h1>
 		<h2>
 			In 2+ sentences describe who you are and what you do.
 		</h2>
