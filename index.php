@@ -4,6 +4,7 @@
 <title>
 P1 Wilbur Zhao
 </title>
+<meta charset = "utf-8">
 <style>
 h1
 {
@@ -32,7 +33,7 @@ body
 	<div class = "main">
 		<h1>
 			Wilbur Zhao
-			<img src = "picture.JPG">
+			<img src = "picture.JPG" alt = "Missing Picture">
 		</h1>
 		<h2>
 			In 2+ sentences describe who you are and what you do.
