@@ -32,6 +32,7 @@ body
 	<div class = "main">
 		<h1>
 			Wilbur Zhao
+			<img src = "picture.JPG">
 		</h1>
 		<h2>
 			In 2+ sentences describe who you are and what you do.
